@@ -394,9 +394,9 @@ Never accept code simply because it works once.
 
 | Day | Topic | Code | Test | Docs | Git |
 |---|---|---|---|---|---|
-| 01 | .NET + C# Foundation | ⬜ | ⬜ | ⬜ | ⬜ |
-| 02 | C# OOP | ⬜ | ⬜ | ⬜ | ⬜ |
-| 03 | Collections + Modern C# | ⬜ | ⬜ | ⬜ | ⬜ |
+| 01 | .NET + C# Foundation | ✅ | ✅ | ✅ | ✅ |
+| 02 | C# OOP | ✅ | ✅ | ✅ | ✅ |
+| 03 | Collections + Modern C# | ✅ | ✅ | ✅ | ✅ |
 | 04 | LINQ + Async | ⬜ | ⬜ | ⬜ | ⬜ |
 | 05 | .NET Structure + DI | ⬜ | ⬜ | ⬜ | ⬜ |
 | 06 | ASP.NET Core | ⬜ | ⬜ | ⬜ | ⬜ |
